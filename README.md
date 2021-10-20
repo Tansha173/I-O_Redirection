@@ -50,5 +50,5 @@ To append the output of a command executed to an existing file without overwriti
 To execute UNIX commands in jupyter environment(jupyter notebook), we add a ' ! ' symbol at the beginning of each executable command.
 
 
-For more details and examples, please refer <a href='https://github.com/Tansha173/I-O_Redirection/blob/master/I:O_Redirection.ipynb'>Input-Output_Redirection</a>
+For more details and examples, please refer <a href='https://github.com/Tansha173/I-O_Redirection/blob/master/IO_Redirection.ipynb'>Input-Output_Redirection</a>
 
